@@ -9,12 +9,15 @@
 
 ### JVM
  - [Java内存区域与垃圾收集算法](https://juejin.cn/post/6975816404314357796)
+
 ### 设计模式
  - [为什么要学习设计模式?](https://juejin.cn/post/6957355222788210696)
  - [工厂模式](https://juejin.cn/post/6957624699744419848)
+
 ### 接口文档
  - [Swagger2生成接口文档](https://juejin.cn/post/6894950705136664589)
  - 
+
 ## 📈运维篇(本篇贡献来自研究基金的运维同志-刘浩然)
 
 ### Docker
@@ -34,10 +37,15 @@
  - [dockerfile的保留字指令](https://www.cnblogs.com/charon2/p/10464945.html)
  - [dockerfile自定义mycentos](https://www.cnblogs.com/charon2/p/10465021.html)
  - ... ...
+
 ### Jenkins
- - [jenkins使用1----初始化设置](https://www.cnblogs.com/charon2/p/10449443.html)
- - [jenkins使用2----基本实例](https://www.cnblogs.com/charon2/p/10450069.html)
- - [jenkins使用3----相关工具安装](https://www.cnblogs.com/charon2/p/10450302.html)
- - [jenkins使用4----git maven工具连接](https://www.cnblogs.com/charon2/p/10521479.html)
- - [jenkins使用5----gi服务器搭建连接](https://www.cnblogs.com/charon2/p/10522256.html)
+ - [jenkins的爱与恨](https://www.yuque.com/charon-nsjtq/zbziy3)
+ - ... ...
+
+### shell
+ - [shell的爱与恨](https://www.yuque.com/charon-nsjtq/zyf2d7)
+ - ... ...
+
+### linux
+ - [运维刘工的linux小记录](https://www.yuque.com/charon-nsjtq/va3fps)
  - ... ...
