@@ -7,6 +7,9 @@
 
 ## ⚡Java篇
 
+### 集合
+ - [List集合-源码解析](https://mp.weixin.qq.com/s/KGWUsHNDb3fl0K-zupHnKw)
+
 ### JVM
  - [Java内存区域与垃圾收集算法](https://juejin.cn/post/6975816404314357796)
 
