@@ -9,6 +9,9 @@
  <img src='https://raw.githubusercontent.com/LiuHanChao-loger/loger/main/image/qrcode_logerJava.png' width=200px height=200px />
 </div>
 
+| 数据结构与算法 | 集合 | JVM | 设计模式 | 多线程 | Spring |数据库| Redis | 消息队列 | 分布式 | 其他 |
+| :---: | :----: | :---: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
+| [:pencil2:](#数据库) |
 
 ## ⚡Java篇
 
@@ -77,18 +80,10 @@
 ### 分布式
  - ... ...
 
-### 接口文档
+### 其他
  - [Swagger2生成接口文档](https://juejin.cn/post/6894950705136664589)
- - ... ...
-
-## 👓idea篇
-
-### IntelliJ IDEA
  - IntelliJ IDEA你不知道的小技巧
- - ... ...
-
-### Eclipse
- - ... ...
+ - ......
 
 ## 📈运维篇
 
