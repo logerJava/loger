@@ -85,5 +85,12 @@
 ## ✒️后记
  转载文章请在开头明显处标明该页面地址，公众号等其它转载请添加公众号中私人联系方式或发送邮件到 mrliu6293@foxmail.com
  
+ 如果觉得本仓库对您有帮助,想要表示感谢,欢迎进行打赏,**金额不重要**,您的支持是我前进最大的动力
+ 
+ <div>
+   <img src='https://raw.githubusercontent.com/LiuHanChao-loger/loger/main/image/aliPay.png' width=200px height=250% />
+   <img src='https://raw.githubusercontent.com/LiuHanChao-loger/loger/main/image/wechatPay.png' width=200px height=250px />
+ </div>
+ 
 ### 致谢
  此页所有运维文章均为老同事刘浩然提供，在此衷心感谢，也欢迎有意向的小伙伴添加联系方式。
