@@ -3,7 +3,8 @@
 
 平时文章写的比较少,一些想到的地方都会记录在 {[思维导图](https://www.processon.com/view/link/60e02e89e0b34d238be6cc98)} 中, 目前在逐步将思维导图转化为文章的形式;
 
-有任何不懂得地方可以关注我的公众号logerJava获取我的联系方式, 欢迎技术交流;
+有任何不懂得地方可以微信搜索 **logerJava** 或扫描下方二维码关注我的公众号,公众号内有私人联系方式, 欢迎技术交流;
+<img src='https://raw.githubusercontent.com/LiuHanChao-loger/loger/main/image/qrcode_for_logerJava.jpg' />
 
 ## ⚡Java篇
 
