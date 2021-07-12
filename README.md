@@ -83,8 +83,8 @@
  - [shell的爱与恨](https://www.yuque.com/charon-nsjtq/zyf2d7)
  - ... ...
 
-### linux
- - [运维刘工的linux小记录](https://www.yuque.com/charon-nsjtq/va3fps)
+### Linux
+ - [运维刘工的Linux小记录](https://www.yuque.com/charon-nsjtq/va3fps)
  - ... ...
 
 ## ✒️后记
