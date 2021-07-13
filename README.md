@@ -49,7 +49,7 @@
 
 ### 集合
  - [List - 源码解析](https://mp.weixin.qq.com/s/KGWUsHNDb3fl0K-zupHnKw)
- - Map - 源码解析
+ - [HashMap - 与面试官的一次对话](https://mp.weixin.qq.com/s/H4kfyiPGBHRki3AXy3P67g)
  - Set - 源码解析
  - 线程安全的集合
  - ... ...
