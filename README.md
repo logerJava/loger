@@ -1,5 +1,7 @@
 # loger
-👋欢迎访问loger的主页, 这里的文章大部分都是利用闲暇时间记录一些Java知识点, 运维知识与实际工作中出现的问题的解决思路;
+🤟🤟🤟
+
+欢迎访问loger的主页, 这里的文章大部分都是利用闲暇时间记录一些Java知识点, 运维知识与实际工作中出现的问题的解决思路;
 
 平时文章写的比较少,一些想到的地方都会记录在思维导图 [[点击跳转思维导图](https://www.processon.com/view/link/60e02e89e0b34d238be6cc98)] 中, 目前在逐步将思维导图转化为文章的形式;
 
@@ -19,31 +21,25 @@
 
 <div align=center>
  
- **Java篇指南**
+ **⚡ Java篇**
  
 </div>
 
 <div align=center>
  
- | [⚓集合](#集合) | [⚓JVM](#jvm)| [设计模式](#设计模式) | [多线程](#多线程) | [Spring](#spring) | [数据库](#数据库) | [Redis](#redis) | [消息队列](#消息队列) | [分布式](#分布式) | [其他](#其他) |
- 
-|集合 | JVM | 设计模式 | 多线程 | Spring | 数据库| Redis | 消息队列 | 分布式 | 其他 |
-| :---: | :----: | :---: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-| [⬇](#集合) | [⬇](#JVM) | [⬇](#设计模式) | [⬇](#多线程) | [⬇](#Spring) | [⬇](#数据库) | [⬇](#Redis) | [⬇](#消息队列) | [⬇](#分布式) | [⬇](#其他) |
+ | [集合](#集合) | [JVM](#jvm)| [设计模式](#设计模式) | [多线程](#多线程) | [Spring](#spring) | [数据库](#数据库) | [Redis](#redis) | [消息队列](#消息队列) | [分布式](#分布式) | [其他](#其他) |
  
 </div>
 
 <div align=center>
  
- **运维篇指南**
+ **📈 运维篇**
  
 </div>
 
 <div align=center>
  
-| Docker | Jenkins | shell | Linux |
-| :---: | :----: | :---: | :----: |
-| [⬇](#Docker) | [⬇](#Jenkins) | [⬇](#shell) | [⬇](#Linux) |
+ | [Docker](#docker) | [Jenkins](#jenkins) | [shell](#shell) | [Linux](#linux) |
  
 </div>
 
@@ -150,16 +146,17 @@
 
 ## ✒️后记
 
-### 排版
- 本仓库排版借鉴于 **[CyC2018](https://github.com/CyC2018)**
- 
 ### License
+
  本仓库内容为本人纯手打而非网上拼凑,如需转载请在开头明显处标明该页面地址;
  
  公众号等其它转载请添加公众号中私人联系方式或发送邮件到 mrliu6293@foxmail.com
  
 ### 打赏
- 如果觉得本仓库对您有帮助,欢迎进行打赏,金额不重要,您的鼓励是我前进的最大动力
+
+ 如果觉得本仓库对您有帮助, 想要进行打赏, 👌loger的态度肯定是不拒绝
+ 
+ **金额不重要**, 您的鼓励是我前进的最大动力
  
  <div align=center>
   <img src='https://raw.githubusercontent.com/LiuHanChao-loger/loger/main/image/aliPay.png' width=200px height=250px />
@@ -167,4 +164,15 @@
  </div>
  
 ### 致谢
- 本仓库所有运维知识来源为老同事刘浩然提供，在此衷心感谢，也欢迎有意向的小伙伴添加联系方式。
+
+ 十分感谢以下人员对该仓库做出的贡献, 他们都是十分热爱知识人. 如果你您提交过问题或建议, 希望添加到这个名单, 请与我联系.
+ 
+ #### Java
+ <a href="https://github.com/LiuHanChao-loger">
+    <img src="https://avatars.githubusercontent.com/u/52228242?v=4" width="50px">
+ </a> 
+ 
+ #### 运维
+ <a href="https://github.com/liuhaoliuxue">
+    <img src="https://avatars.githubusercontent.com/u/39127191?v=4" width="50px">
+ </a> 
