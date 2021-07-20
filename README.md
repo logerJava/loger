@@ -62,14 +62,13 @@
 ### 集合
  - [List - 源码解析](https://mp.weixin.qq.com/s/KGWUsHNDb3fl0K-zupHnKw)
  - [HashMap - 与面试官的一次对话](https://mp.weixin.qq.com/s/5ATSJR4DbwYmFP8qaYyKuQ)
- - JUC中线程安全的"ArrayList" - CopyOnWriteArrayList
  - Set - 源码解析
  - 线程安全的集合
  - ... ...
 
 ### JVM
  - [Java内存区域与垃圾收集算法](https://juejin.cn/post/6975816404314357796)
- - CMS与G1
+ - CMS 与 G1
  - 类的加载机制
  - ... ...
 
@@ -86,17 +85,17 @@
  - ... ...
 
 ### Spring
- - IOC,DI,AOP 都是啥?
+ - IOC, DI, AOP 都是啥?
  - bean 的生命周期
  - 循环依赖
- - Spring MVC 的工作流程
- - SpringBoot这么好,你还要配置MVC吗?
+ - SpringMVC 的工作流程
+ - SpringBoot这么好, 你还要配置MVC吗?
  - ... ...
 
 ### 数据库
- - 三分钟了解MySQL
+ - 三分钟了解 MySQL
  - 索引
- - 我的查询为什么这么慢?Explain分析
+ - 我的查询为什么这么慢? Explain分析
  - 脏读, 幻读, 不可重复读?
  - InnoDB的事务是怎么实现的?
  - ... ...
@@ -113,11 +112,11 @@
 
 ### 消息队列
  - 什么是消息队列, 在项目中处于什么地位
- - RocketMQ(火箭MQ), 你想上天?
- - RocketMQ如何保证消费与高可用
- - RocketMQ一次完整的通信流程都做了什么?
+ - RocketMQ (火箭MQ), 你想上天?
+ - RocketMQ 如何保证消费与高可用
+ - RocketMQ 一次完整的通信流程都做了什么?
  - 事务消息?
- - RocketMQ的常见问题
+ - RocketMQ 的常见问题
  - ... ...
 
 ### 分布式
