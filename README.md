@@ -64,13 +64,11 @@
  - [HashMap - 与面试官的一次对话](https://mp.weixin.qq.com/s/5ATSJR4DbwYmFP8qaYyKuQ)
  - [如何实现线程安全的 Map](https://mp.weixin.qq.com/s/JymhQcgoXoE4oo-LFUFbyQ)
  - [Set - 源码解析](https://mp.weixin.qq.com/s/oJwZZXDYtLtCjSgU56mnvA)
- - ... ...
 
 ### JVM
  - [Java内存区域与垃圾收集算法](https://juejin.cn/post/6975816404314357796)
  - CMS 与 G1
  - 类的加载机制
- - ... ...
 
 ### 设计模式
  - [为什么要学习设计模式?](https://juejin.cn/post/6957355222788210696)
@@ -82,7 +80,6 @@
  - Java多线程中的那几把锁
  - ThreadLocal是个什么玩应?
  - 什么都用Synchronized? 你确定不了解一下Atomic吗?
- - ... ...
 
 ### Spring
  - IOC, DI, AOP 都是啥?
@@ -90,7 +87,6 @@
  - 循环依赖
  - SpringMVC 的工作流程
  - SpringBoot这么好, 你还要配置MVC吗?
- - ... ...
 
 ### 数据库
  - 三分钟了解 MySQL
@@ -98,7 +94,6 @@
  - 我的查询为什么这么慢? Explain分析
  - 脏读, 幻读, 不可重复读?
  - InnoDB的事务是怎么实现的?
- - ... ...
 
 ### Redis
  - 缓存在项目中的地位
@@ -108,7 +103,6 @@
  - 单体, 哨兵还是集群, 你的Redis部署该怎么选?
  - Redis的分布式好像没那么简单
  - 深入探究, 你所不知道的Redis
- - ... ...
 
 ### 消息队列
  - 什么是消息队列, 在项目中处于什么地位
@@ -117,7 +111,6 @@
  - RocketMQ 一次完整的通信流程都做了什么?
  - 事务消息?
  - RocketMQ 的常见问题
- - ... ...
 
 ### 分布式
  - ... ...
@@ -125,7 +118,6 @@
 ### 其他
  - [Swagger2生成接口文档](https://juejin.cn/post/6894950705136664589)
  - IntelliJ IDEA你不知道的小技巧
- - ......
 
 ## 📈 运维篇
 
@@ -145,19 +137,15 @@
  - [Docker 容器数据卷](https://www.cnblogs.com/charon2/p/10428413.html)
  - [dockerfile 的保留字指令](https://www.cnblogs.com/charon2/p/10464945.html)
  - [dockerfile 自定义 mycentos](https://www.cnblogs.com/charon2/p/10465021.html)
- - ... ...
 
 ### Jenkins
  - [jenkins 的爱与恨](https://www.yuque.com/charon-nsjtq/zbziy3)
- - ... ...
 
 ### shell
  - [shell 的爱与恨](https://www.yuque.com/charon-nsjtq/zyf2d7)
- - ... ...
 
 ### Linux
  - [运维刘工的 Linux 小记录](https://www.yuque.com/charon-nsjtq/va3fps)
- - ... ...
 
 ## 🎨 前端篇
 
