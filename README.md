@@ -24,7 +24,6 @@
  **⚡ Java篇**
  
 </div>
-
 <div align=center>
  
  | [集合](#集合) | [JVM](#jvm)| [设计模式](#设计模式) | [多线程](#多线程) | [Spring](#spring) | [数据库](#数据库) | [Redis](#redis) | [消息队列](#消息队列) | [分布式](#分布式) | [其他](#其他) |
@@ -36,7 +35,6 @@
  **📈 运维篇**
  
 </div>
-
 <div align=center>
  
  | [Docker](#docker) | [Jenkins](#jenkins) | [shell](#shell) | [Linux](#linux) |
@@ -48,10 +46,20 @@
  **🎨 前端篇**
  
 </div>
-
 <div align=center>
  
  | [JavaScript](#javascript) |
+ 
+</div>
+
+<div align=center>
+ 
+ **⌛ 程序人生**
+ 
+</div>
+<div align=center>
+ 
+ | [Java 研发人员](#java-研发人员) |
  
 </div>
 
@@ -150,6 +158,11 @@
 ## 🎨 前端篇
 
 ### JavaScript
+ - ... ...
+
+## ⌛ 程序人生
+
+### Java 研发人员
  - ... ...
 
 ## ✒️ 后记
