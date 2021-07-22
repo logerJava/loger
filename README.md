@@ -5,7 +5,7 @@
 
 平时文章写的比较少, 一些想到的地方都会记录在思维导图 [[跳转思维导图](https://www.processon.com/view/link/60e02e89e0b34d238be6cc98)] 中, 目前在将思维导图转化为文章
 
-有任何不懂得地方可以微信搜索 **logerJava** 或扫描下方二维码关注我的公众号, 公众号内有私人联系方式, 欢迎技术交流
+有任何不懂得地方可以微信搜索 **logerJava** 或扫描下方二维码关注公众号, 获取联系方式, 欢迎技术交流
 
 <div align=center>
  <img src='https://raw.githubusercontent.com/LiuHanChao-loger/loger/main/image/qrcode_logerJava.png' width=200px height=200px />
