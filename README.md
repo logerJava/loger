@@ -90,6 +90,7 @@
  - 什么都用Synchronized? 你确定不了解一下Atomic吗?
 
 ### Spring
+ - [Spring 基础概念3分钟扫盲](https://mp.weixin.qq.com/s/pL13tlPk8Os2K1R8hLeS8w)
  - IOC, DI, AOP 都是啥?
  - bean 的生命周期
  - 循环依赖
