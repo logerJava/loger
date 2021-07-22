@@ -1,11 +1,11 @@
 # loger
-🤟🤟🤟
+🤟 🤟 🤟
 
-欢迎访问loger的主页, 这里的文章大部分都是利用闲暇时间记录一些Java知识点, 运维知识与实际工作中出现的问题的解决思路;
+欢迎访问, 本仓库文章大部分都是利用闲暇时间记录的知识体系, 与实际工作中出现问题的解决思路
 
-平时文章写的比较少, 一些想到的地方都会记录在思维导图 [[点击跳转思维导图](https://www.processon.com/view/link/60e02e89e0b34d238be6cc98)] 中, 目前在逐步将思维导图转化为文章的形式;
+平时文章写的比较少, 一些想到的地方都会记录在思维导图 [[跳转思维导图](https://www.processon.com/view/link/60e02e89e0b34d238be6cc98)] 中, 目前在将思维导图转化为文章
 
-有任何不懂得地方可以微信搜索 **logerJava** 或扫描下方二维码关注我的公众号, 公众号内有私人联系方式, 欢迎技术交流;
+有任何不懂得地方可以微信搜索 **logerJava** 或扫描下方二维码关注我的公众号, 公众号内有私人联系方式, 欢迎技术交流
 
 <div align=center>
  <img src='https://raw.githubusercontent.com/LiuHanChao-loger/loger/main/image/qrcode_logerJava.png' width=200px height=200px />
@@ -170,24 +170,17 @@
 
 ### License
 
- 本仓库内容为本人纯手打, 仅小部分为书籍与网络上的资料(已做标注, 侵删), 如需转载请在开头明显处标明该页面地址;
+ 本仓库内容部分参考网络文章与书籍(已做标注, 侵删), 如需转载请在开头明显处标明该页面地址
  
  公众号等其它转载请添加公众号中私人联系方式或发送邮件到 mrliu6293@foxmail.com
  
-### 打赏
+### Star
 
- 如果觉得本仓库对您有帮助, 想要进行打赏, 👌loger的态度肯定是不拒绝
- 
- **金额不重要**, 您的鼓励是我前进的最大动力
- 
- <div align=center>
-  <img src='https://raw.githubusercontent.com/LiuHanChao-loger/loger/main/image/aliPay.png' width=200px height=250px />
-  <img src='https://raw.githubusercontent.com/LiuHanChao-loger/loger/main/image/wechatPay.png' width=200px height=250px />
- </div>
+ 如果觉得本仓库对您有帮助, 欢迎您的 ⭐**Star**, 您的鼓励是我前进的最大动力 !
  
 ### 致谢
 
- 十分感谢以下人员对该仓库做出的贡献, 他们都是十分热爱知识人. 如果您提交过问题或建议, 希望添加到这个名单, 请与我联系.
+ 十分感谢以下人员对该仓库做出的贡献, 他们都是十分热爱知识人. 如果您提交过问题或建议, 希望添加到这个名单, 请与我联系
  
  #### Java
  <a href="https://github.com/LiuHanChao-loger">
