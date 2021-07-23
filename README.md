@@ -74,7 +74,7 @@
 ### Redis
  - 缓存在项目中的地位
  - Redis 常见的数据结构
- - [Redis 中的 HyperLogLog](https://mp.weixin.qq.com/s/mArxgzaURpXk3XoZODBuUw)
+ - [Redis - HyperLogLog 详解](https://mp.weixin.qq.com/s/mArxgzaURpXk3XoZODBuUw)
  - Redis常规操作3分钟扫盲
  - 单体, 哨兵还是集群, 你的Redis部署该怎么选?
  - Redis的分布式好像没那么简单
