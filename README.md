@@ -21,12 +21,12 @@
 
 <div align=center>
  
- **⚡ Java篇**
+ **☕ Java**
  
 </div>
 <div align=center>
  
-| [算法](#算法) | [集合](#集合) | [JVM](#jvm)| [设计模式](#设计模式) | [多线程](#多线程) | [Spring](#spring) | [数据库](#数据库) | [Redis](#redis) | [消息队列](#消息队列) | [其他](#其他) |
+| [Java](#java) | [算法](#-算法) | [数据库](#-数据库)| [中间件](#-中间件) | [设计模式](#-设计模式) | [其他](#-其他) |
  
 </div>
 
@@ -42,11 +42,7 @@
 </div>
 
 
-## ⚡ Java篇
-
-### 算法
- - LeetCode 题解
- - 剑指 Offer 题解
+## ☕ Java
 
 ### 集合
  - [List - 源码解析](https://mp.weixin.qq.com/s/KGWUsHNDb3fl0K-zupHnKw)
@@ -58,10 +54,6 @@
  - [Java内存区域与垃圾收集算法](https://juejin.cn/post/6975816404314357796)
  - CMS 与 G1
  - 类的加载机制
-
-### 设计模式
- - [为什么要学习设计模式?](https://juejin.cn/post/6957355222788210696)
- - [工厂模式](https://juejin.cn/post/6957624699744419848)
 
 ### 多线程
  - 学习多线程, 你不得不了解的基础知识
@@ -78,12 +70,18 @@
  - SpringMVC 的工作流程
  - SpringBoot这么好, 你还要配置MVC吗?
 
-### 数据库
+## ✏ 算法
+ - LeetCode 题解
+ - 剑指 Offer 题解
+
+## 💾 数据库
  - 三分钟了解 MySQL
  - 索引
  - 我的查询为什么这么慢? Explain分析
  - 脏读, 幻读, 不可重复读?
  - InnoDB的事务是怎么实现的?
+
+## ⚙ 中间件
 
 ### Redis
  - 缓存在项目中的地位
@@ -102,11 +100,15 @@
  - 事务消息?
  - RocketMQ 的常见问题
 
-### 其他
+## 📐 设计模式
+ - [为什么要学习设计模式?](https://juejin.cn/post/6957355222788210696)
+ - [工厂模式](https://juejin.cn/post/6957624699744419848)
+
+## 🔭 其他
  - [Swagger2 生成接口文档](https://juejin.cn/post/6894950705136664589)
  - IntelliJ IDEA你不知道的小技巧
 
-## 📈 运维篇
+## 📈 运维
 
 ### Linux
  - [运维刘工的 Linux 小记录](https://www.yuque.com/charon-nsjtq/va3fps)
