@@ -1,5 +1,4 @@
 # loger
-🤟 🤟 🤟
 
 欢迎访问, 本仓库文章大部分都是利用闲暇时间记录的知识体系, 与实际工作中出现问题的解决思路
 
@@ -21,23 +20,12 @@
 
 <div align=center>
  
- **☕ Java**
+ **🧭 导航**
  
 </div>
 <div align=center>
  
-| [Java](#java) | [算法](#-算法) | [数据库](#-数据库)| [中间件](#-中间件) | [设计模式](#-设计模式) | [其他](#-其他) |
- 
-</div>
-
-<div align=center>
- 
- **📈 运维篇**
- 
-</div>
-<div align=center>
- 
- | [Docker](#docker) | [Jenkins](#jenkins) | [shell](#shell) | [Linux](#linux) |
+| [Java](#java) | [算法](#-算法) | [数据库](#-数据库)| [中间件](#-中间件) | [设计模式](#-设计模式) | [其他](#-其他) | [运维](#-运维) |
  
 </div>
 
@@ -85,8 +73,8 @@
 
 ### Redis
  - 缓存在项目中的地位
- - Redis篇 - 常见的数据结构
- - [Redis篇 - 我真的学过HyperLogLog](https://mp.weixin.qq.com/s/mArxgzaURpXk3XoZODBuUw)
+ - Redis 常见的数据结构
+ - [Redis 中的 HyperLogLog](https://mp.weixin.qq.com/s/mArxgzaURpXk3XoZODBuUw)
  - Redis常规操作3分钟扫盲
  - 单体, 哨兵还是集群, 你的Redis部署该怎么选?
  - Redis的分布式好像没那么简单
