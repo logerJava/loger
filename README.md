@@ -26,7 +26,7 @@
 </div>
 <div align=center>
  
- | [集合](#集合) | [JVM](#jvm)| [设计模式](#设计模式) | [多线程](#多线程) | [Spring](#spring) | [数据库](#数据库) | [Redis](#redis) | [消息队列](#消息队列) | [分布式](#分布式) | [其他](#其他) |
+| [算法](#算法) | [集合](#集合) | [JVM](#jvm)| [设计模式](#设计模式) | [多线程](#多线程) | [Spring](#spring) | [数据库](#数据库) | [Redis](#redis) | [消息队列](#消息队列) | [其他](#其他) |
  
 </div>
 
@@ -43,6 +43,10 @@
 
 
 ## ⚡ Java篇
+
+### 算法
+ - LeetCode 题解
+ - 剑指 Offer 题解
 
 ### 集合
  - [List - 源码解析](https://mp.weixin.qq.com/s/KGWUsHNDb3fl0K-zupHnKw)
@@ -97,9 +101,6 @@
  - RocketMQ 一次完整的通信流程都做了什么?
  - 事务消息?
  - RocketMQ 的常见问题
-
-### 分布式
- - ... ...
 
 ### 其他
  - [Swagger2 生成接口文档](https://juejin.cn/post/6894950705136664589)
