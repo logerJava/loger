@@ -137,12 +137,9 @@
 
  十分感谢以下人员对本仓库做出的贡献, 如果您提交过问题或建议, 并希望添加到这个名单, 请与我联系
  
- #### Java
  <a href="https://github.com/LiuHanChao-loger">
     <img src="https://avatars.githubusercontent.com/u/52228242?v=4" width="50px">
  </a> 
- 
- #### 运维
  <a href="https://github.com/liuhaoliuxue">
     <img src="https://avatars.githubusercontent.com/u/39127191?v=4" width="50px">
  </a> 
