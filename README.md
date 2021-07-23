@@ -41,29 +41,6 @@
  
 </div>
 
-<div align=center>
- 
- **🎨 前端篇**
- 
-</div>
-<div align=center>
- 
- | [JavaScript](#javascript) |
- 
-</div>
-
-<div align=center>
- 
- **⌛ 程序人生**
- 
-</div>
-<div align=center>
- 
- | [Java 研发人员](#java-研发人员) |
- 
-</div>
-
-
 
 ## ⚡ Java篇
 
@@ -130,19 +107,22 @@
 
 ## 📈 运维篇
 
+### Linux
+ - [运维刘工的 Linux 小记录](https://www.yuque.com/charon-nsjtq/va3fps)
+
 ### Docker
  - [为什么要使用 Docker ?](https://www.cnblogs.com/charon2/p/10423241.html)
  - [Docker 的介绍](https://www.cnblogs.com/charon2/p/10423304.html)
  - [Docker 的安装](https://www.cnblogs.com/charon2/p/10423511.html)
  - [Docker 的三要素](https://www.cnblogs.com/charon2/p/10423565.html)
- - [Docker - 阿里云加速配置](https://www.cnblogs.com/charon2/p/10423584.html)
- - [Docker - 运行时的底层原理](https://www.cnblogs.com/charon2/p/10423650.html)
- - [Docker - 帮助命令](https://www.cnblogs.com/charon2/p/10423659.html)
- - [Docker - 镜像命令](https://www.cnblogs.com/charon2/p/10423807.html)
- - [Docker - 容器命令](https://www.cnblogs.com/charon2/p/10425060.html)
- - [Docker - 镜像原理](https://www.cnblogs.com/charon2/p/10425150.html)
- - [Docker - commit操作](https://www.cnblogs.com/charon2/p/10425472.html)
- - [关于CentOS7下Docker - ce无法删除镜像的问题](https://www.cnblogs.com/charon2/p/10425758.html)
+ - [Docker 阿里云加速配置](https://www.cnblogs.com/charon2/p/10423584.html)
+ - [Docker 运行时的底层原理](https://www.cnblogs.com/charon2/p/10423650.html)
+ - [Docker 帮助命令](https://www.cnblogs.com/charon2/p/10423659.html)
+ - [Docker 镜像命令](https://www.cnblogs.com/charon2/p/10423807.html)
+ - [Docker 容器命令](https://www.cnblogs.com/charon2/p/10425060.html)
+ - [Docker 镜像原理](https://www.cnblogs.com/charon2/p/10425150.html)
+ - [Docker commit操作](https://www.cnblogs.com/charon2/p/10425472.html)
+ - [关于 CentOS7 下 Docker ce 无法删除镜像的问题](https://www.cnblogs.com/charon2/p/10425758.html)
  - [Docker 容器数据卷](https://www.cnblogs.com/charon2/p/10428413.html)
  - [dockerfile 的保留字指令](https://www.cnblogs.com/charon2/p/10464945.html)
  - [dockerfile 自定义 mycentos](https://www.cnblogs.com/charon2/p/10465021.html)
@@ -153,19 +133,6 @@
 ### shell
  - [shell 的爱与恨](https://www.yuque.com/charon-nsjtq/zyf2d7)
 
-### Linux
- - [运维刘工的 Linux 小记录](https://www.yuque.com/charon-nsjtq/va3fps)
-
-## 🎨 前端篇
-
-### JavaScript
- - ... ...
-
-## ⌛ 程序人生
-
-### Java 研发人员
- - ... ...
-
 ## ✒️ 后记
 
 ### License
@@ -174,13 +141,9 @@
  
  公众号等其它转载请添加公众号中私人联系方式或发送邮件到 mrliu6293@foxmail.com
  
-### Star
-
- 如果觉得本仓库对您有帮助, **欢迎您的 ⭐Star, 您的鼓励是我前进的最大动力 !**
- 
 ### 致谢
 
- 十分感谢以下人员对该仓库做出的贡献, 他们都是十分热爱知识人 . 如果您提交过问题或建议, 希望添加到这个名单, 请与我联系
+ 十分感谢以下人员对本仓库做出的贡献, 如果您提交过问题或建议, 并希望添加到这个名单, 请与我联系
  
  #### Java
  <a href="https://github.com/LiuHanChao-loger">
