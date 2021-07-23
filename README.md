@@ -87,7 +87,7 @@
  - [工厂模式 (Factory Pattern)](https://juejin.cn/post/6957624699744419848)
 
 ## 🔧 工具
- - IntelliJ IDEA你不知道的小技巧
+ - IntelliJ IDEA 你不知道的小技巧
 
 ## 📈 运维
 
