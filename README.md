@@ -52,6 +52,7 @@
 
 ### Spring
  - [Spring 基础概念3分钟扫盲](https://mp.weixin.qq.com/s/pL13tlPk8Os2K1R8hLeS8w)
+ - [Spinrg - Bean 详解](https://mp.weixin.qq.com/s/dO89LJwbbHlIMcxi5jM9xQ)
  - IOC, DI, AOP 都是啥?
  - bean 的生命周期
  - 循环依赖
