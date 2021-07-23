@@ -43,17 +43,17 @@
 ### Spring
  - [Spring - 基础概念3分钟扫盲](https://mp.weixin.qq.com/s/pL13tlPk8Os2K1R8hLeS8w)
  - [Spinrg - Bean 详解](https://mp.weixin.qq.com/s/dO89LJwbbHlIMcxi5jM9xQ)
- - IOC, DI, AOP 都是啥?
- - bean 的生命周期
- - 循环依赖
- - SpringMVC 的工作流程
- - SpringBoot这么好, 你还要配置MVC吗?
+ - Spring - AOP 
+ - Spring - 循环依赖问题
+ - SpringBoot - 自动装配
 
 ## ✏ 算法
  - LeetCode 题解
  - 剑指 Offer 题解
 
 ## 💾 数据库
+
+### MySQL
  - 三分钟了解 MySQL
  - 索引
  - 我的查询为什么这么慢? Explain分析
@@ -64,7 +64,7 @@
 
 ### Redis
  - 缓存在项目中的地位
- - Redis 常见的数据结构
+ - Redis - 常见的数据结构
  - [Redis - HyperLogLog 详解](https://mp.weixin.qq.com/s/mArxgzaURpXk3XoZODBuUw)
  - Redis常规操作3分钟扫盲
  - 单体, 哨兵还是集群, 你的Redis部署该怎么选?
