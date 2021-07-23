@@ -1,14 +1,3 @@
-# loger
-
-欢迎访问, 本仓库文章大部分都是利用闲暇时间记录的知识体系, 与实际工作中出现问题的解决思路
-
-平时文章写的比较少, 一些想到的地方都会记录在思维导图 [[跳转思维导图](https://www.processon.com/view/link/60e02e89e0b34d238be6cc98)] 中, 目前在将思维导图转化为文章
-
-有任何不懂得地方可以微信搜索 **logerJava** 或扫描下方二维码关注公众号, 获取联系方式, 欢迎技术交流
-
-<div align=center>
- <img src='https://raw.githubusercontent.com/LiuHanChao-loger/loger/main/image/qrcode_logerJava.png' width=200px height=200px />
-</div>
 
 <p align="center">
   <a href="https://github.com/LiuHanChao-loger"> <img src="https://badgen.net/badge/%E5%85%B3%E6%B3%A8/github/black"> </a>
@@ -16,16 +5,11 @@
   <a href="https://space.bilibili.com/20538970"> <img src="https://badgen.net/badge/%E5%85%B3%E6%B3%A8/bilibili/pink"> </a>
 </p>
 
-***
-
 <div align=center>
  
- **🧭 导航**
- 
-</div>
-<div align=center>
- 
-| [Java](#-java) | [算法](#-算法) | [数据库](#-数据库)| [中间件](#-中间件) | [设计模式](#-设计模式) | [其他](#-其他) | [运维](#-运维) |
+| Java | 算法 | 数据库| 中间件 | 设计模式 | 其他 | 运维 | 后记 |
+| :---: | :----: | :---: | :----: | :----: | :----: | :----: | :----: |
+| [☕](#-java) | [✏](#-算法) | [💾](#-数据库)| [⚙](#-中间件) | [📐](#-设计模式) | [🔭](#-其他) | [📈](#-运维) | [📃](#-后记)
  
 </div>
 
@@ -125,13 +109,17 @@
 ### shell
  - [shell 的爱与恨](https://www.yuque.com/charon-nsjtq/zyf2d7)
 
-## ✒️ 后记
+## 📃 后记
 
 ### License
 
  本仓库内容部分参考网络文章与书籍(已做标注, 侵删), 如需转载请在开头明显处标明该页面地址
  
- 公众号等其它转载请添加公众号中私人联系方式或发送邮件到 mrliu6293@foxmail.com
+ 公众号等其它转载请扫描关注下方二维码获取联系方式或发送邮件到 mrliu6293@foxmail.com
+ 
+ <div align=center>
+   <img src='https://raw.githubusercontent.com/LiuHanChao-loger/loger/main/image/qrcode_logerJava.png' width=200px height=200px />
+ </div>
  
 ### 致谢
 
