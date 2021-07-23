@@ -35,8 +35,8 @@
 ### 集合
  - [List - 源码解析](https://mp.weixin.qq.com/s/KGWUsHNDb3fl0K-zupHnKw)
  - [HashMap - 与面试官的一次对话](https://mp.weixin.qq.com/s/5ATSJR4DbwYmFP8qaYyKuQ)
- - [如何实现线程安全的 Map](https://mp.weixin.qq.com/s/JymhQcgoXoE4oo-LFUFbyQ)
  - [Set - 源码解析](https://mp.weixin.qq.com/s/oJwZZXDYtLtCjSgU56mnvA)
+ - [如何实现线程安全的 Map](https://mp.weixin.qq.com/s/JymhQcgoXoE4oo-LFUFbyQ)
 
 ### JVM
  - [Java内存区域与垃圾收集算法](https://juejin.cn/post/6975816404314357796)
@@ -51,7 +51,7 @@
  - 什么都用Synchronized? 你确定不了解一下Atomic吗?
 
 ### Spring
- - [Spring 基础概念3分钟扫盲](https://mp.weixin.qq.com/s/pL13tlPk8Os2K1R8hLeS8w)
+ - [Spring - 基础概念3分钟扫盲](https://mp.weixin.qq.com/s/pL13tlPk8Os2K1R8hLeS8w)
  - [Spinrg - Bean 详解](https://mp.weixin.qq.com/s/dO89LJwbbHlIMcxi5jM9xQ)
  - IOC, DI, AOP 都是啥?
  - bean 的生命周期
