@@ -47,6 +47,7 @@
  - [Spring - AOP](https://mp.weixin.qq.com/s/4MoPg32aqmfxvxdTGGSiOg)
  - [Spring - 循环依赖问题](https://mp.weixin.qq.com/s/95zXH9u1U1VtkTvi40QdRQ)
  - SpringBoot - 自动装配
+ - SpringCloud - 组件概念
 
 ### 其他
  - [Swagger2 - 自动生成接口文档](https://juejin.cn/post/6894950705136664589)
