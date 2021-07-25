@@ -121,9 +121,13 @@
 
 ### License
 
- 本仓库内容部分参考网络文章与书籍(已做标注, 侵删), 如需转载请在开头明显处标明该页面地址
+ 本仓库内容为全部手打, 部分参考书籍与网络文章处已做标注(侵删), 如需转载请在开头明显处标明该页面地址
  
- 公众号等其它转载请扫描关注下方二维码获取联系方式或发送邮件到 mrliu6293@foxmail.com
+ 公众号等其它转载请添加公众号中联系方式备注来意或发送邮件到 mrliu6293@foxmail.com
+ 
+### 关注
+
+ 扫描下方二维码关注公众号第一时间观看文章, 回复 "联系方式" 获取个人微信, 添加请备注来意
  
  <div align=center>
    <img src='https://raw.githubusercontent.com/LiuHanChao-loger/loger/main/image/qrcode_logerJava.png' width=200px height=200px />
