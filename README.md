@@ -61,22 +61,31 @@
 ## 💾 数据库
 
 ### MySQL
- - 三分钟了解 MySQL
- - 索引
- - 我的查询为什么这么慢? Explain分析
- - 脏读, 幻读, 不可重复读?
- - InnoDB的事务是怎么实现的?
+ - MySQL - 基础知识
+ - MySQL - 索引机制
+ - MySQL - 如何设计索引,索引的优化
+ - MySQL - 事务隔离级别
+ - MySQL - MVCC
+ - MySQL - binlog, redolog, undolog, slowlog
+ - MySQL - 主从复制
+ - MySQL - 分库分表分区
+ - MySQL - Explain 调优
 
 ## ⚙ 中间件
 
 ### Redis
- - 缓存在项目中的地位
  - Redis - 常见的数据结构
+ - Redis - BitMap
  - [Redis - HyperLogLog 详解](https://mp.weixin.qq.com/s/mArxgzaURpXk3XoZODBuUw)
- - Redis常规操作3分钟扫盲
- - 单体, 哨兵还是集群, 你的Redis部署该怎么选?
- - Redis的分布式好像没那么简单
- - 深入探究, 你所不知道的Redis
+ - Redis - 布隆过滤器
+ - 缓存雪崩, 缓存穿透, 缓存击穿
+ - Redis - 双写一致
+ - Redis - 分布式锁
+ - Redis - 限流操作
+ - Redis - 部署
+ - Redis - 高可用
+ - Redis - 过期策略与淘汰机制
+ - Redis - 多路复用IO
 
 ### 消息队列
  - 什么是消息队列, 在项目中处于什么地位
