@@ -25,9 +25,9 @@
 
 ### 集合
  - [List - 源码解析](https://mp.weixin.qq.com/s/KGWUsHNDb3fl0K-zupHnKw)
- - [HashMap - 与面试官的一次对话](https://mp.weixin.qq.com/s/5ATSJR4DbwYmFP8qaYyKuQ)
- - [Set - 源码解析](https://mp.weixin.qq.com/s/oJwZZXDYtLtCjSgU56mnvA)
+ - [HashMap - 源码解析](https://mp.weixin.qq.com/s/5ATSJR4DbwYmFP8qaYyKuQ)
  - [如何实现线程安全的 Map](https://mp.weixin.qq.com/s/JymhQcgoXoE4oo-LFUFbyQ)
+ - [Set - 源码解析](https://mp.weixin.qq.com/s/oJwZZXDYtLtCjSgU56mnvA)
 
 ### JVM
  - [Java内存区域与垃圾收集算法](https://juejin.cn/post/6975816404314357796)
