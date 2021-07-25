@@ -41,10 +41,10 @@
  - 什么都用Synchronized? 你确定不了解一下Atomic吗?
 
 ### Spring
- - [Spring - 基础概念3分钟扫盲](https://mp.weixin.qq.com/s/pL13tlPk8Os2K1R8hLeS8w)
- - [Spinrg - Bean 详解](https://mp.weixin.qq.com/s/dO89LJwbbHlIMcxi5jM9xQ)
- - Spring - AOP 
- - Spring - 循环依赖问题
+ - [Spring - 基础概念](https://mp.weixin.qq.com/s/pL13tlPk8Os2K1R8hLeS8w)
+ - [Spinrg - Bean](https://mp.weixin.qq.com/s/dO89LJwbbHlIMcxi5jM9xQ)
+ - [Spring - AOP](https://mp.weixin.qq.com/s/4MoPg32aqmfxvxdTGGSiOg)
+ - [Spring - 循环依赖问题](https://mp.weixin.qq.com/s/95zXH9u1U1VtkTvi40QdRQ)
  - SpringBoot - 自动装配
 
 ### 其他
