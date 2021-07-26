@@ -44,11 +44,14 @@
  - 类的加载机制
 
 ### 多线程
- - 学习多线程, 你不得不了解的基础知识
- - 多线程入门, 你学会需要几分钟?
- - Java多线程中的那几把锁
- - ThreadLocal是个什么玩应?
- - 什么都用Synchronized? 你确定不了解一下Atomic吗?
+ - 多线程 - 基础概念
+ - Java 中实现多线程
+ - Java 的内存模型 - JMM
+ - 多线程 - 锁
+ - 多线程 - volatile
+ - 多线程 - ThreadLocal
+ - 多线程 - Atomic 原子类
+ - Java - JUC
 
 ### Spring
  - [Spring - 基础概念](https://mp.weixin.qq.com/s/pL13tlPk8Os2K1R8hLeS8w)
@@ -94,13 +97,12 @@
  - Redis - 过期策略与淘汰机制
  - Redis - 多路复用IO
 
-### 消息队列
- - 什么是消息队列, 在项目中处于什么地位
- - RocketMQ (火箭MQ), 你想上天?
- - RocketMQ 如何保证消费与高可用
- - RocketMQ 一次完整的通信流程都做了什么?
- - 事务消息?
- - RocketMQ 的常见问题
+### RocketMQ
+ - RocketMQ - 基础概念
+ - RocketMQ - 保证消费与高可用
+ - RocketMQ - 一次完整的通信流程都做了什么?
+ - RocketMQ - 事务消息
+ - RocketMQ - 常见问题
 
 ## 📐 设计模式
  - [常见设计模式简介](https://juejin.cn/post/6957355222788210696)
@@ -109,7 +111,7 @@
 ## 🔩 系统设计
 
 ### 分布式
- - 分布式概念
+ - 分布式 - 基础概念,常见黑话
  - 分布式锁
  - 分布式事务
 
