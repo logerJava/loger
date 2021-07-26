@@ -170,7 +170,7 @@
 
  十分感谢以下人员对本仓库做出的贡献, 如果您提交过问题或建议, 并希望添加到这个名单, 请与我联系
  
- <a href="https://github.com/LiuHanChao-loger">
+ <a href="https://github.com/logerJava">
     <img src="https://avatars.githubusercontent.com/u/52228242?v=4" width="50px">
  </a> 
  <a href="https://github.com/liuhaoliuxue">
