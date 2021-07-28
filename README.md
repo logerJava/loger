@@ -71,7 +71,7 @@
 ## 💾 数据库
 
 ### MySQL
- - MySQL - 基础知识
+ - [MySQL - 基础概念](https://mp.weixin.qq.com/s/7QMVbxIijPba-gzGkqOfdA)
  - MySQL - 索引机制
  - MySQL - 如何设计索引,索引的优化
  - MySQL - 事务隔离级别
