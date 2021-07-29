@@ -47,8 +47,8 @@
  - 多线程 - 基础概念
  - Java 中实现多线程
  - Java 的内存模型 - JMM
- - 多线程 - 锁
  - 多线程 - volatile
+ - 多线程 - 锁
  - 多线程 - ThreadLocal
  - 多线程 - Atomic 原子类
  - Java - JUC
