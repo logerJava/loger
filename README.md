@@ -74,12 +74,11 @@
  - [MySQL - 基础概念](https://mp.weixin.qq.com/s/7QMVbxIijPba-gzGkqOfdA)
  - MySQL - 索引机制
  - MySQL - 如何设计索引,索引的优化
- - MySQL - 事务隔离级别
+ - MySQL - Explain 调优
  - MySQL - MVCC
  - MySQL - binlog, redolog, undolog, slowlog
  - MySQL - 主从复制
  - MySQL - 分库分表分区
- - MySQL - Explain 调优
 
 ## ⚙ 中间件
 
@@ -170,7 +169,7 @@
  
 ### 致谢
 
- 十分感谢以下人员对本仓库做出的贡献, 如果您提交过问题或建议, 并希望添加到这个名单, 请与我联系
+ 十分感谢以下人员对本仓库做出的贡献
  
  <a href="https://github.com/logerJava">
     <img src="https://avatars.githubusercontent.com/u/52228242?v=4" width="50px">
