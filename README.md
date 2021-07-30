@@ -88,7 +88,7 @@
  - Redis - BitMap
  - [Redis - HyperLogLog 详解](https://mp.weixin.qq.com/s/mArxgzaURpXk3XoZODBuUw)
  - Redis - 布隆过滤器
- - 缓存雪崩, 缓存穿透, 缓存击穿
+ - Redis - 雪崩, 穿透, 击穿
  - Redis - 双写一致
  - Redis - 分布式锁
  - Redis - 限流操作
