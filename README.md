@@ -175,7 +175,7 @@
  
 ### 关注
 
- 扫描下方二维码关注公众号第一时间观看文章, 回复 "联系方式" 获取个人微信, 添加请备注来意
+ 扫描下方二维码关注公众号获取最新文章, 回复 "联系方式" 获取个人微信, 添加请备注来意
  
  <div align=center>
    <img src='https://raw.githubusercontent.com/LiuHanChao-loger/loger/main/image/qrcode_logerJava.png' width=200px height=200px />
@@ -183,11 +183,8 @@
  
 ### 致谢
 
- 十分感谢以下人员对本仓库做出的贡献
+ 十分感谢以下人员对本仓库做出的贡献, 以下排名不分先后
  
- <a href="https://github.com/logerJava">
-    <img src="https://avatars.githubusercontent.com/u/52228242?v=4" width="50px">
- </a> 
  <a href="https://github.com/liuhaoliuxue">
     <img src="https://avatars.githubusercontent.com/u/39127191?v=4" width="50px">
  </a> 
