@@ -90,12 +90,12 @@
 ### MySQL
  - [MySQL - 基础概念](https://mp.weixin.qq.com/s/7QMVbxIijPba-gzGkqOfdA)
  - MySQL - 索引机制
- - MySQL - 如何设计索引,索引的优化
+ - MySQL - 索引优化
  - MySQL - Explain 调优
  - MySQL - MVCC
- - MySQL - binlog, redolog, undolog, slowlog
+ - MySQL - 日志
  - MySQL - 主从复制
- - MySQL - 分库分表分区
+ - MySQL - 分库, 分表, 分区
 
 ## ⚙ 中间件
 
