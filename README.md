@@ -69,12 +69,14 @@
  - [SpringBoot - 自动装配](https://mp.weixin.qq.com/s/Y6m7gLpZzYX2cgTnn4JMqg)
  - SpringCloud - 组件概念
 
-### 拓展
- - [Swagger2 - 自动生成接口文档](https://juejin.cn/post/6894950705136664589)
+### 项目管理
  - Maven
- - PostMan
  - SVN
  - Git
+
+### 拓展
+ - [Swagger2 - 自动生成接口文档](https://juejin.cn/post/6894950705136664589)
+ - poi
 
 ### 复盘
  - ......
@@ -137,6 +139,7 @@
 
 ## 🔧 工具
  - IntelliJ IDEA 你不知道的小技巧
+ - PostMan
 
 ## 📈 运维
 
