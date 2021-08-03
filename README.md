@@ -65,7 +65,7 @@
  - [Spring - AOP](https://mp.weixin.qq.com/s/4MoPg32aqmfxvxdTGGSiOg)
  - [Spring - 循环依赖问题](https://mp.weixin.qq.com/s/95zXH9u1U1VtkTvi40QdRQ)
  - [Spring - 事务](https://mp.weixin.qq.com/s/DpO0ft8d6D5CSjQFydjlKA)
- - SpringBoot - 自动装配
+ - [SpringBoot - 自动装配](https://mp.weixin.qq.com/s/Y6m7gLpZzYX2cgTnn4JMqg)
  - SpringCloud - 组件概念
 
 ### 拓展
