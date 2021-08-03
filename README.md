@@ -182,7 +182,7 @@
  扫描下方二维码关注公众号获取最新文章, 回复 "联系方式" 获取个人微信, 添加请备注来意
  
  <div align=center>
-   <img src='https://raw.githubusercontent.com/LiuHanChao-loger/loger/main/image/qrcode_logerJava.png' width=200px height=200px />
+   <img src='https://raw.githubusercontent.com/LiuHanChao-loger/loger/main/image/qrcode_logerJava2.png' width=200px height=200px />
  </div>
  
 ### 致谢
