@@ -1,9 +1,8 @@
 
 
-
 <div align=center>
   
-🧭 **导航**
+🧭 **导航 (更新以公众号, GitHub 为主)**
   
 <br/>
  
@@ -19,8 +18,11 @@
   <a href="#关注"> <img src="https://badgen.net/badge/%E5%85%AC%E4%BC%97%E5%8F%B7/logerJava/228B22"> </a>
   <a href="https://github.com/LiuHanChao-loger"> <img src="https://badgen.net/badge/Star/GitHub/black"> </a>
   <a href="https://juejin.cn/user/2814381481807559"> <img src="https://badgen.net/badge/%E5%85%B3%E6%B3%A8/%E6%8E%98%E9%87%91/cyan"> </a>
-  <a href="https://www.zhihu.com/people/logerJava"> <img src="https://badgen.net/badge/%E5%85%B3%E6%B3%A8/%E7%9F%A5%E4%B9%8E/blue"> </a>
   <a href="https://space.bilibili.com/20538970"> <img src="https://badgen.net/badge/%E5%85%B3%E6%B3%A8/bilibili/pink"> </a>
+  <a href="https://www.zhihu.com/people/logerJava"> <img src="https://badgen.net/badge/%E5%85%B3%E6%B3%A8/%E7%9F%A5%E4%B9%8E/blue"> </a>
+  <a href="https://www.jianshu.com/u/7035c667726d"> <img src="https://badgen.net/badge/%E5%85%B3%E6%B3%A8/%E7%AE%80%E4%B9%A6/orange"> </a>
+  <a href="https://www.toutiao.com/c/user/token/MS4wLjABAAAAQS9A-ISyWh2MVMY6HA689fF12EnQy7FcKkPzmH_3ASh3FfkkETeTQrfYUpR8UCyg/?source=mine_home"> <img src="https://badgen.net/badge/%E5%85%B3%E6%B3%A8/%E4%BB%8A%E6%97%A5%E5%A4%B4%E6%9D%A1/red"> </a>
+  
 </p>
 
 ## 🌏 计算机网络
