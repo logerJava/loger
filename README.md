@@ -42,7 +42,7 @@
  - Stream
  - Optional
 
-### 集合
+### 容器
  - [List - 源码解析](https://mp.weixin.qq.com/s/KGWUsHNDb3fl0K-zupHnKw)
  - [HashMap - 源码解析](https://mp.weixin.qq.com/s/5ATSJR4DbwYmFP8qaYyKuQ)
  - [如何实现线程安全的 Map](https://mp.weixin.qq.com/s/JymhQcgoXoE4oo-LFUFbyQ)
