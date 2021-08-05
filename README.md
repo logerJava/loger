@@ -91,7 +91,7 @@
 
 ### MySQL
  - [MySQL - 基础概念](https://mp.weixin.qq.com/s/7QMVbxIijPba-gzGkqOfdA)
- - MySQL - 索引机制
+ - [MySQL - 索引机制](https://mp.weixin.qq.com/s/quDi0AV7Fw20wOSQ6Rb_gA)
  - MySQL - 索引优化
  - MySQL - Explain 调优
  - MySQL - MVCC
