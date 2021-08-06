@@ -2,9 +2,7 @@
 
 <div align=center>
   
-  [笔记版](https://github.com/logerJava/loger/blob/main/notes/%E7%9B%AE%E5%BD%95.md)
-  
-  **( 以公众号为主, 其他视情况同步 )**
+  **以公众号为主, 其他视情况同步, 笔记版点击[📚](https://github.com/logerJava/loger/blob/main/notes/%E7%9B%AE%E5%BD%95.md)**
   
   <p align="center">
     <a href="#关注"> <img src="https://badgen.net/badge/%E5%85%AC%E4%BC%97%E5%8F%B7/logerJava/228B22"> </a>
