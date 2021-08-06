@@ -102,7 +102,7 @@
  - [MySQL - 索引机制](https://mp.weixin.qq.com/s/quDi0AV7Fw20wOSQ6Rb_gA)
  - MySQL - 索引优化
  - MySQL - Explain 调优
- - [MySQL - log 解析](https://mp.weixin.qq.com/s/UHkTpDgPceO3zP-QzRsNUw)
+ - [MySQL - Log 解析](https://mp.weixin.qq.com/s/UHkTpDgPceO3zP-QzRsNUw)
  - MySQL - MVCC
  - MySQL - 主从复制
  - MySQL - 分库, 分表, 分区
