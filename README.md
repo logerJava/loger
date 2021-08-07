@@ -85,8 +85,6 @@
 
 ### 拓展
  - [Swagger2 - 自动生成接口文档](https://juejin.cn/post/6894950705136664589)
- - FastJson
- - poi
 
 ### 复盘
  - ......
@@ -151,11 +149,13 @@
 
 ### 排版
  
- 排版参照 :  [CyC2018](https://github.com/CyC2018/CS-Notes), 根据 [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-CN.md) 排版
+ 排版参照 : [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-CN.md)
+ 
+ 徽章 : [Badgen](https://badgen.net/)
  
  Emoji : [Emoji Dictionnary](https://www.emojiall.com/en)
  
- Logo : [logomakr](https://logomakr.com/)
+ Logo : [LogoMakr](https://logomakr.com/)
 
 ### License
 
