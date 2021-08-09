@@ -97,11 +97,11 @@
 
 ### MySQL
  - [MySQL - 基础概念](https://mp.weixin.qq.com/s/7QMVbxIijPba-gzGkqOfdA)
- - [MySQL - 索引机制](https://mp.weixin.qq.com/s/quDi0AV7Fw20wOSQ6Rb_gA)
- - MySQL - 索引优化
- - MySQL - Explain 调优
- - [MySQL - Log 解析](https://mp.weixin.qq.com/s/UHkTpDgPceO3zP-QzRsNUw)
+ - [MySQL - 常见 Log](https://mp.weixin.qq.com/s/UHkTpDgPceO3zP-QzRsNUw)
+ - MySQL - 锁
  - MySQL - MVCC
+ - [MySQL - 索引机制](https://mp.weixin.qq.com/s/quDi0AV7Fw20wOSQ6Rb_gA)
+ - MySQL - 调优
  - MySQL - 主从复制
  - MySQL - 分库, 分表, 分区
 
