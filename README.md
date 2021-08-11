@@ -147,7 +147,7 @@
 
 ### 排版
  
- 排版参照 : [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-CN.md)
+ 排版参照 : [CyC2018](https://github.com/CyC2018), [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-CN.md)
  
  绘图工具 : [ProcessOn](https://www.processon.com/), [draw.io](https://app.diagrams.net/)
  
