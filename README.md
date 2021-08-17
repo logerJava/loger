@@ -106,7 +106,7 @@
  - MySQL - 分库, 分表, 分区
 
 ### Redis
- - Redis - 常见的数据结构
+ - [Redis - 基础概念, 数据结构](https://mp.weixin.qq.com/s/ML4r1FDAZyuocEVilF3FUQ)
  - Redis - BitMap
  - [Redis - HyperLogLog 详解](https://mp.weixin.qq.com/s/mArxgzaURpXk3XoZODBuUw)
  - Redis - 布隆过滤器
