@@ -9,7 +9,7 @@
 - [垃圾回收机制](#垃圾回收机制)
 - [垃圾回收器](#垃圾回收器)
 - [Full GC](#full-gc)
-- [STW(Stop The World)](#stw-stop-the-world-)
+- [STW(Stop The World)](#stw(stop-the-world))
 - [性能调优](#性能调优)
 - [FullGC 内存泄露排查](#fullgc-内存泄露排查)
 - [逃逸分析](#逃逸分析)
