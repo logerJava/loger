@@ -9,7 +9,7 @@
 - [垃圾回收机制](#垃圾回收机制)
 - [垃圾回收器](#垃圾回收器)
 - [Full GC](#full-gc)
-- [STW(Stop The World)](#stw(stop-the-world))
+- [STW](#stw)
 - [性能调优](#性能调优)
 - [FullGC 内存泄露排查](#fullgc-内存泄露排查)
 - [逃逸分析](#逃逸分析)
@@ -144,9 +144,9 @@
 - `system.gc()` 通知 JVM 进行 Full GC
 - 持久代空间不足
 
-## STW(Stop The World)
+## STW
 
-- 在执行垃圾收集算法时，Java 应用程序的其他所有线程都被挂起, 是 Java 中一种全局暂停现象，全局停顿，所有 Java 代码停止，Native 代码可以执行，但不能与 JVM 交互
+- stop the word 在执行垃圾收集算法时，Java 应用程序的其他所有线程都被挂起, 是 Java 中一种全局暂停现象，全局停顿，所有 Java 代码停止，Native 代码可以执行，但不能与 JVM 交互
 
 ## 性能调优
 
