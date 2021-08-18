@@ -169,6 +169,8 @@
 
  扫描下方二维码关注公众号获取最新文章, 回复 "联系方式" 获取个人微信, 添加请备注来意
  
+ 回复 "思维导图" 获取密码 : [思维导图地址](https://www.processon.com/view/link/60e02e89e0b34d238be6cc98)
+ 
  <div align=left>
    <img src='https://raw.githubusercontent.com/LiuHanChao-loger/loger/main/image/qrcode_logerJava2.png' width=200px height=200px />
  </div>
