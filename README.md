@@ -112,7 +112,7 @@
  - Redis - BitMap
  - [Redis - HyperLogLog 详解](https://mp.weixin.qq.com/s/mArxgzaURpXk3XoZODBuUw)
  - Redis - 布隆过滤器
- - Redis - 雪崩, 穿透, 击穿
+ - [Redis - 雪崩, 穿透, 击穿](https://mp.weixin.qq.com/s/dfGWptjlSw-ffTdMMBLDAw)
  - [Redis - 双写一致问题](https://mp.weixin.qq.com/s/xLmIbCD4Uc3F0OpktUMyEw)
  - Redis - 分布式锁
  - Redis - 限流操作
