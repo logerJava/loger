@@ -114,7 +114,7 @@
  - Redis - 布隆过滤器
  - [Redis - 雪崩, 穿透, 击穿](https://mp.weixin.qq.com/s/dfGWptjlSw-ffTdMMBLDAw)
  - [Redis - 双写一致问题](https://mp.weixin.qq.com/s/xLmIbCD4Uc3F0OpktUMyEw)
- - Redis - 分布式锁
+ - [Redis - 分布式锁](https://mp.weixin.qq.com/s/EsuTg255f6G4wscmAc0GnQ)
  - Redis - 限流操作
  - Redis - 部署
  - Redis - 高可用
