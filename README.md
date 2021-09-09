@@ -87,7 +87,7 @@
  - [Swagger2 - 自动生成接口文档](https://juejin.cn/post/6894950705136664589)
 
 ### 复盘
- - [三年开发的简短总结](https://mp.weixin.qq.com/s/Ej0lTMPsLSUJgu4891YC_A)
+ - [三年来开发的简短总结](https://mp.weixin.qq.com/s/Ej0lTMPsLSUJgu4891YC_A)
 
 ## ✏ 算法
  - LeetCode 题解
