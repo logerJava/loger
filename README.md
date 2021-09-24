@@ -137,6 +137,7 @@
 
 ### 业务场景
  - 秒杀场景的设计
+ - [一致性哈希算法](https://mp.weixin.qq.com/s/88Zwir33kXZO9U2FZHii_A)
 
 
 ## 🔧 工具
