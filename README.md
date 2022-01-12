@@ -2,31 +2,17 @@
 
 <div align=center>
   
-  **README 为公众号文章目录**
-  
-  **[📚 笔记版请点击](https://github.com/logerJava/loger/blob/main/notes/%E7%9B%AE%E5%BD%95.md)**
-  
   <p align="center">
     <a href="#关注"> <img src="https://badgen.net/badge/%E5%85%AC%E4%BC%97%E5%8F%B7/logerJava/228B22"> </a>
     <a href="https://github.com/LiuHanChao-loger"> <img src="https://badgen.net/badge/Star/GitHub/black"> </a>
     <a href="https://juejin.cn/user/2814381481807559"> <img src="https://badgen.net/badge/%E5%85%B3%E6%B3%A8/%E6%8E%98%E9%87%91/cyan"> </a>
-    <a href="https://space.bilibili.com/20538970"> <img src="https://badgen.net/badge/%E5%85%B3%E6%B3%A8/bilibili/pink"> </a>
-    <a href="https://www.zhihu.com/people/logerJava"> <img src="https://badgen.net/badge/%E6%8F%90%E9%97%AE/%E7%9F%A5%E4%B9%8E/blue"> </a>
-  
   </p>
- 
+  
 | 计算机网络 | Java | 算法 | 数据库| 中间件 | 系统设计 | 工具 | 后记 |
 | :---: | :----: | :---: | :----: | :----: | :----: | :----: | :----: |
 | [🌏](#-计算机网络) | [☕](#-java) | [✏](#-算法) | [💾](#-数据库)| [⚙](#-中间件) | [⚖](#-系统设计) | [🔧](#-工具) | [📃](#-后记)
- 
+  
 </div>
-
-<div align=center>
-  <img src='https://raw.githubusercontent.com/LiuHanChao-loger/loger/main/image/logo.png' />
-</div>
-
-<br/>
-
 
 ## 🌏 计算机网络
 
@@ -153,8 +139,6 @@
  绘图工具 : [ProcessOn](https://www.processon.com/), [draw.io](https://app.diagrams.net/)
  
  Emoji : [Emoji Dictionnary](https://www.emojiall.com/en)
- 
- Logo : [LogoMakr](https://logomakr.com/)
  
  徽章 : [Badgen](https://badgen.net/)
 
