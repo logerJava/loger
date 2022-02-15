@@ -125,6 +125,11 @@
  - 秒杀场景的设计
  - [一致性哈希算法](https://mp.weixin.qq.com/s/88Zwir33kXZO9U2FZHii_A)
 
+### 部署
+ - [Linux 安装 JDK](http://note.youdao.com/noteshare?id=47e053d8a2ed09ec93f82450ececbbe1&sub=6DEA68ADA3A34D0A954C10CE1AEC38A3)
+ - [Linux 安装 MySQL](http://note.youdao.com/noteshare?id=823b9435e6eb9abe2d4a8ccc46b4892f&sub=F9B2323B1B8448A9975D4AC4BBA123CA)
+ - [Linux 集群部署 Nacos](http://note.youdao.com/noteshare?id=2d77b5da204468c27e8732abc8e453d7&sub=048FAFB8CDED4C6388E5A83234AC4DB8)
+
 
 ## 🔧 工具
  - IntelliJ IDEA 你不知道的小技巧
