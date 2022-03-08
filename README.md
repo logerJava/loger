@@ -132,7 +132,8 @@
 
 
 ## 🔧 工具
- - IntelliJ IDEA 你不知道的小技巧
+ - [KeyTool 生成密钥对](http://note.youdao.com/noteshare?id=ace920a181598f2f0f562e23ef98344f&sub=8347393240E74BD19EBB78FAB08B464F)
+ - IntelliJ IDEA
  - PostMan
 
 ## 📃 后记
