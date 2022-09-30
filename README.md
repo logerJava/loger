@@ -70,6 +70,7 @@
 
 ### 拓展
  - [Swagger2 - 自动生成接口文档](https://juejin.cn/post/6894950705136664589)
+ - [GroovyClassLoader 从字符串中加载解析代码](https://note.youdao.com/ynoteshare/index.html?id=318c65e3f3aba9effd9ed2a1ca535fdd&type=note&_time=1664516914430)
 
 ### 复盘
 
