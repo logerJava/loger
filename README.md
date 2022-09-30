@@ -123,6 +123,7 @@
 ### 业务场景
  - 秒杀场景的设计
  - [一致性哈希算法](https://mp.weixin.qq.com/s/88Zwir33kXZO9U2FZHii_A)
+ - [敏感词过滤方案总结](https://note.youdao.com/ynoteshare/index.html?id=8168ac7d6b203c4a1307e279e9c323d8&type=note&_time=1664517836383)
 
 ### 部署
  - [Linux 安装 JDK](http://note.youdao.com/noteshare?id=47e053d8a2ed09ec93f82450ececbbe1&sub=6DEA68ADA3A34D0A954C10CE1AEC38A3)
