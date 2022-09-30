@@ -163,7 +163,7 @@
  回复 "联系方式" 获取微信, 添加请备注来意
  
  <div align=left>
-   <img src='https://raw.githubusercontent.com/LiuHanChao-loger/loger/main/image/qrcode_logerJava2.png' width=200px height=200px />
+   <img src='https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7091b95973954a0f8e91b9902bfa257a~tplv-k3u1fbpfcp-watermark.image?' width=200px height=200px />
  </div>
  
 ### 致谢
