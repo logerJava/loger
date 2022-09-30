@@ -61,7 +61,7 @@
  - [SpringCloud - 组件概念](https://mp.weixin.qq.com/s/xajyfllHu9BgJLHi9tzYUg)
 
 ### 设计模式
- - [设计模式 - Demo 项目](https://github.com/logerJava/Design-patterns)
+ - [设计模式 - Design-patterns 项目](https://github.com/logerJava/Design-patterns)
 
 ### 项目管理
  - Maven
