@@ -89,6 +89,7 @@
  - MySQL - 调优
  - MySQL - 主从复制
  - MySQL - 分库, 分表, 分区
+ - [MySQL - 杂项问题](https://note.youdao.com/ynoteshare/index.html?id=f26ef471b445c7311a27e25b62b3b7d7&type=note&_time=1665542381683)
 
 ### Redis
  - [Redis - 基础概念, 数据结构](https://mp.weixin.qq.com/s/ML4r1FDAZyuocEVilF3FUQ)
