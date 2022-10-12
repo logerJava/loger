@@ -86,6 +86,7 @@
  - [MySQL - 常见 Log](https://mp.weixin.qq.com/s/UHkTpDgPceO3zP-QzRsNUw)
  - [MySQL - 锁](https://mp.weixin.qq.com/s/RrTWFRogZuU-k0U5woUdag)
  - [MySQL - 事务](https://mp.weixin.qq.com/s/xHd_3KeL2EReb6GLzfG2qA)
+ - [MySQL - Explain](http://note.youdao.com/noteshare?id=178f0814479bddd79342e4fd4ca772be&sub=106533855772413C919D8B43A8D98EDC)
  - MySQL - 调优
  - MySQL - 主从复制
  - MySQL - 分库, 分表, 分区
