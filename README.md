@@ -91,6 +91,7 @@
  - MySQL - 主从复制
  - MySQL - 分库, 分表, 分区
  - [MySQL - 工作中遇到的问题 (不断更新)](https://note.youdao.com/ynoteshare/index.html?id=f26ef471b445c7311a27e25b62b3b7d7&type=note&_time=1665542381683)
+ - [MySQL - 关于时间问题的一些思考](http://note.youdao.com/noteshare?id=8f38d751a3807ed6d93b50402f3bbfd4&sub=71FF13C9454B4154A43E2E316C0BFBC9)
 
 ### Redis
  - [Redis - 基础概念, 数据结构](https://mp.weixin.qq.com/s/ML4r1FDAZyuocEVilF3FUQ)
