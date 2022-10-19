@@ -87,7 +87,7 @@
  - [MySQL - 锁](https://mp.weixin.qq.com/s/RrTWFRogZuU-k0U5woUdag)
  - [MySQL - 事务](https://mp.weixin.qq.com/s/xHd_3KeL2EReb6GLzfG2qA)
  - [MySQL - Explain](http://note.youdao.com/noteshare?id=178f0814479bddd79342e4fd4ca772be&sub=106533855772413C919D8B43A8D98EDC)
- - MySQL - 调优
+ - [MySQL - 高性能优化建议](http://note.youdao.com/noteshare?id=38f522475b31fb5e657c08b798e39978&sub=8BC2135A5CC644F0B9593F4A2EE97568)
  - MySQL - 主从复制
  - MySQL - 分库, 分表, 分区
  - [MySQL - 工作中遇到的问题 (不断更新)](https://note.youdao.com/ynoteshare/index.html?id=f26ef471b445c7311a27e25b62b3b7d7&type=note&_time=1665542381683)
