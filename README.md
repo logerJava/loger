@@ -71,6 +71,7 @@
 ### 其他
  - [Swagger2 自动生成接口文档](https://juejin.cn/post/6894950705136664589)
  - [GroovyClassLoader 从字符串中加载解析代码](https://note.youdao.com/ynoteshare/index.html?id=318c65e3f3aba9effd9ed2a1ca535fdd&type=note&_time=1664516914430)
+ - [LiteFlow 复杂业务逻辑解耦](http://note.youdao.com/noteshare?id=540fda4a9425c64fc5a69ad88acbc6cb&sub=4DFA23081A2D479AB2C1686DDEE9D428)
 
 ### 复盘
 
