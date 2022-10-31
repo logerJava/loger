@@ -27,9 +27,6 @@
 ### Java 基础
  - [【转载】泛型详解](https://www.cnblogs.com/Blue-Keroro/p/8875898.html)
  - [【转载】深入解析反射](https://www.sczyh30.com/posts/Java/java-reflection-1/)
- - Lambda
- - Stream
- - Optional
 
 ### 容器
  - [List - 源码解析](https://mp.weixin.qq.com/s/KGWUsHNDb3fl0K-zupHnKw)
@@ -121,7 +118,7 @@
 
 ### 分布式
  - [分布式 - 概念及基础理论](https://mp.weixin.qq.com/s/PltSfmMUVPYcelqnalVDPg)
- - 分布式锁
+ - RPC
  - 分布式事务
 
 ### 业务场景
