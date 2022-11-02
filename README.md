@@ -87,7 +87,7 @@
  - [MySQL - Explain](http://note.youdao.com/noteshare?id=178f0814479bddd79342e4fd4ca772be&sub=106533855772413C919D8B43A8D98EDC)
  - [MySQL - 高性能优化建议](http://note.youdao.com/noteshare?id=38f522475b31fb5e657c08b798e39978&sub=8BC2135A5CC644F0B9593F4A2EE97568)
  - [MySQL - 主从复制](http://note.youdao.com/noteshare?id=56ab52c188ce291ae5af17351ef1623a&sub=5828802F329D4F1DAE81FC8BE113B8BD)
- - [MySQL - ShardingSphere-JDBC 读写分离]([id=be8896b5a31f5bc42dbb3dc467379c4a&sub=0959C7EB470740A790428D03205BD6B2](http://note.youdao.com/noteshare?id=be8896b5a31f5bc42dbb3dc467379c4a&sub=0959C7EB470740A790428D03205BD6B2))
+ - [MySQL - ShardingSphere-JDBC 读写分离](http://note.youdao.com/noteshare?id=be8896b5a31f5bc42dbb3dc467379c4a&sub=0959C7EB470740A790428D03205BD6B2)
  - [MySQL - 工作中遇到的问题 (不断更新)](https://note.youdao.com/ynoteshare/index.html?id=f26ef471b445c7311a27e25b62b3b7d7&type=note&_time=1665542381683)
  - [MySQL - 关于时间问题的一些思考](http://note.youdao.com/noteshare?id=8f38d751a3807ed6d93b50402f3bbfd4&sub=71FF13C9454B4154A43E2E316C0BFBC9)
 
