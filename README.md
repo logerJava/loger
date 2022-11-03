@@ -118,7 +118,7 @@
 ## ⚖ 系统设计
 
 ### 分布式
- - [分布式 - 概念及基础理论](https://mp.weixin.qq.com/s/PltSfmMUVPYcelqnalVDPg)
+ - [分布式 - 基础概念, CAP 理论, BASE 理论](https://mp.weixin.qq.com/s/PltSfmMUVPYcelqnalVDPg)
  - RPC
  - 分布式事务
 
