@@ -33,6 +33,7 @@
  - [HashMap - 源码解析](https://mp.weixin.qq.com/s/5ATSJR4DbwYmFP8qaYyKuQ)
  - [如何实现线程安全的 Map](https://mp.weixin.qq.com/s/JymhQcgoXoE4oo-LFUFbyQ)
  - [Set - 源码解析](https://mp.weixin.qq.com/s/oJwZZXDYtLtCjSgU56mnvA)
+ - [集合知识点总结（附源码解析）](https://logerjava.github.io/2023/02/01/%E9%9B%86%E5%90%88%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93-%E9%99%84%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90/)
 
 ### JVM
  - [Java内存区域与垃圾收集算法](https://juejin.cn/post/6975816404314357796)
