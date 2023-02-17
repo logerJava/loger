@@ -25,7 +25,7 @@
 ## ☕ Java
 
 ### Java 基础
- - [【转载】泛型详解](https://www.cnblogs.com/Blue-Keroro/p/8875898.html)
+ - [泛型详解](https://logerjava.github.io/2022/11/08/Java-%E6%B3%9B%E5%9E%8B%E8%AF%A6%E8%A7%A3/)
  - [【转载】深入解析反射](https://www.sczyh30.com/posts/Java/java-reflection-1/)
 
 ### 容器
@@ -68,8 +68,8 @@
 
 ### 其他
  - [Swagger2 自动生成接口文档](https://juejin.cn/post/6894950705136664589)
- - [GroovyClassLoader 从字符串中加载解析代码](https://note.youdao.com/ynoteshare/index.html?id=318c65e3f3aba9effd9ed2a1ca535fdd&type=note&_time=1664516914430)
- - [LiteFlow 复杂业务逻辑解耦](http://note.youdao.com/noteshare?id=540fda4a9425c64fc5a69ad88acbc6cb&sub=4DFA23081A2D479AB2C1686DDEE9D428)
+ - [GroovyClassLoader 从字符串中加载解析代码](https://logerjava.github.io/2022/11/11/GroovyClassLoader-%E4%BB%8E%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E5%8A%A0%E8%BD%BD%E8%A7%A3%E6%9E%90%E4%BB%A3%E7%A0%81/)
+ - [LiteFlow 复杂业务逻辑解耦](https://logerjava.github.io/2022/11/09/KeyTool-%E5%B7%A5%E5%85%B7%E7%94%9F%E6%88%90%E5%AF%86%E9%92%A5%E5%AF%B9/)
 
 ### 复盘
 
@@ -92,15 +92,16 @@
  - MySQL - 分库, 分表, 分区
  - [MySQL - 关于时间问题的思考](http://note.youdao.com/noteshare?id=8f38d751a3807ed6d93b50402f3bbfd4&sub=71FF13C9454B4154A43E2E316C0BFBC9)
  - [MySQL - 一些工作中遇到的问题](https://note.youdao.com/ynoteshare/index.html?id=f26ef471b445c7311a27e25b62b3b7d7&type=note&_time=1665542381683)
+ - [MySQL 知识点总结](https://logerjava.github.io/2023/02/03/MySQL%20%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93/)
 
 ### Redis
  - [Redis - 基础概念, 数据结构](https://mp.weixin.qq.com/s/ML4r1FDAZyuocEVilF3FUQ)
- - Redis - BitMap
+ - [Redis 数据类型和应用场景](https://logerjava.github.io/2023/02/08/Redis%20%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF/)
  - [Redis - HyperLogLog 详解](https://mp.weixin.qq.com/s/mArxgzaURpXk3XoZODBuUw)
- - Redis - 布隆过滤器
  - [Redis - 雪崩, 穿透, 击穿](https://mp.weixin.qq.com/s/dfGWptjlSw-ffTdMMBLDAw)
  - [Redis - 双写一致问题](https://mp.weixin.qq.com/s/xLmIbCD4Uc3F0OpktUMyEw)
  - [Redis - 分布式锁](https://mp.weixin.qq.com/s/EsuTg255f6G4wscmAc0GnQ)
+ - [Redis 持久化](https://logerjava.github.io/2023/02/14/Redis%20%E6%8C%81%E4%B9%85%E5%8C%96/)
  - Redis - 限流操作
  - Redis - 部署
  - Redis - 高可用
